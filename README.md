@@ -82,6 +82,3 @@
 [![Aaarat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alioth72&theme=react-dark)](https://github.com/Alioth72)
 
 
-
-### ⚡ "Research. Build. Deploy. Repeat."
-```

@@ -25,9 +25,9 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Information Technology student at **Delhi Technological University (DTU)**
+- 🎓 Electrical Engineering student at **Delhi Technological University (DTU)**
 - 🔬 Researching **Adversarial Machine Learning** and **Robust Deep Learning**
-- 🤖 Interested in **Computer Vision**, **Large Language Models**, and **Generative AI**
+- 🤖 **SIH 2025 Winner** along side multiple other national hackathons
 - 🧠 Building AI systems with **PyTorch**, **Transformers**, and **Graph Neural Networks**
 - 🌐 Full-stack developer with experience in scalable web applications
 - 🏆 Case Competition Winner | Open Source Enthusiast | Competitive Programmer

@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaarat Chadda (Alioth72) <br>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaarat Chadda <br>
 &emsp;&emsp;&nbsp;[![](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Researcher;AI+Engineer;Computer+Vision+Researcher;Full-Stack+Developer;Competitive+Programmer&center=true&width=520&height=45)](https://git.io/typing-svg)
 
 ## My Contribution Statistics...

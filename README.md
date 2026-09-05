@@ -1,5 +1,5 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Aaarat Chadda <br>
-&emsp;&emsp;&nbsp;[![](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Researcher;AI+Engineer;Computer+Vision+Researcher;Full-Stack+Developer;Competitive+Programmer&center=true&width=520&height=45)](https://git.io/typing-svg)
+# I'm Aaarat Chadda <br>
+&emsp;&emsp;&nbsp;[![](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Researcher;AI+Engineer;Computer+Vision+Researcher;Full-Stack+Developer;&center=true&width=520&height=45)](https://git.io/typing-svg)
 
 ## My Contribution Statistics...
 
@@ -23,18 +23,18 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
-- 🎓 Electrical Engineering student at **Delhi Technological University (DTU)**
-- 🔬 Researching **Adversarial Machine Learning** and **Robust Deep Learning**
-- 🤖 **SIH 2025 Winner** along side multiple other national hackathons
-- 🧠 Building AI systems with **PyTorch**, **Transformers**, and **Graph Neural Networks**
-- 🌐 Full-stack developer with experience in scalable web applications
-- 🏆 Case Competition Winner | Open Source Enthusiast | Competitive Programmer
+-  Electrical Engineering student at **Delhi Technological University (DTU)**
+-  Researching **Adversarial Machine Learning** and **Robust Deep Learning**
+-  **SIH 2025 Winner** along side multiple other national hackathons
+-  Building AI systems with **PyTorch**, **Transformers**, and **Graph Neural Networks**
+-  Full-stack developer with experience in scalable web applications
+-  Case Competition Winner | Open Source Enthusiast | Competitive Programmer
 
 ---
 
-# 📫 Contact Me
+#  Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaarat-chadda-5b75a32a1/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaarat.work@gmail.com)
@@ -42,9 +42,9 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
-## 🤖 AI / Machine Learning
+## AI / Machine Learning
 
 ![](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -55,7 +55,7 @@
 ![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-## 🌐 Web Development
+##  Web Development
 
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -65,7 +65,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## 🛠 Developer Tools
+##  Developer Tools
 
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -77,7 +77,7 @@
 
 ---
 
-# 📈 GitHub Activity Graph
+#  GitHub Activity Graph
 
 [![Aaarat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alioth72&theme=react-dark)](https://github.com/Alioth72)
 
